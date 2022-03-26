@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "b67455a74a0da64d",
+    "type": "split",
+    "children": [
+      {
+        "id": "80c32fc5d13aaba0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-03-26 - Initialize my blog.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "476e511beed29faf",
+    "type": "split",
+    "children": [
+      {
+        "id": "15367735b1acb85e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddaf8422087fe89c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd3bd707ae39f644",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3bdbd3221d38dfc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c600e1cacec460fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1c9b745a726a665",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-03-26 - Initialize my blog.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c893f798c9528d9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "80c32fc5d13aaba0",
+  "lastOpenFiles": [
+    "2022-03-26 - Initialize my blog.md"
+  ]
+}
