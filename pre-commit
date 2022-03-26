@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cp -f daily_notes/_meta/* _meta
+python composer.py 
+git add -A
