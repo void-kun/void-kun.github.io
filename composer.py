@@ -15,9 +15,9 @@ def runner():
                 content += (md_file[:len(md_file) - 3] + '\n')
                 content += inp_file.read()
                 content += '\n<br>\n'
-
+        
         out_file.write(content)
-
+    print('rerender index.md file')
 
 
 if __name__ == "__main__":
