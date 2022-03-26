@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
 name: Void-kun blog
 url: "https://void-kun.github.io"
-markdown: kramdown
 hightlighter: rouge
