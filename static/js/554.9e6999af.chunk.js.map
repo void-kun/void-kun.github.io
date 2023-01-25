@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/554.9e6999af.chunk.js","mappings":"yHAMA,UAJiB,WACf,OAAO,yBAAK,YACd,C","sources":["pages/Category.page.tsx"],"sourcesContent":["import React from 'react';\n\nconst Category = () => {\n  return <div>Category</div>;\n};\n\nexport default Category;\n"],"names":[],"sourceRoot":""}

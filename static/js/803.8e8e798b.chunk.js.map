@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/803.8e8e798b.chunk.js","mappings":"yHAMA,UAJc,WACZ,OAAO,yBAAK,SACd,C","sources":["pages/Photo.page.tsx"],"sourcesContent":["import React from 'react';\n\nconst Photo = () => {\n  return <div>Photo</div>;\n};\n\nexport default Photo;\n"],"names":[],"sourceRoot":""}
