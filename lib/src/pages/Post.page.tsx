@@ -1,6 +1,6 @@
 import React from 'react';
 import { useRecoilValue } from 'recoil';
-import { fetchPostCards, PostCard as PostCardProps } from '../state/posts';
+import { fetchPostCards } from '../state/posts';
 import PostCard from '../components/postcard';
 
 const Post = () => {

@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
+import React, { useEffect, useState } from 'react';
+import { Link, useLocation } from 'react-router-dom';
 import logo from '../../assets/images/logo.png';
 
 type MenuTab = {
@@ -27,16 +27,18 @@ const initMenuTabs: Array<MenuTab> = [
 ];
 
 const SideBar = () => {
+  let { pathname } = useLocation();
   const [menuTabs, setMenuTabs] = useState<Array<MenuTab>>(initMenuTabs);
-  const handleChooseTab = (event: React.MouseEvent, name: string) => {
-    event.preventDefault();
+
+  useEffect(() => {
+    const name = pathname.replace('/', '');
     setMenuTabs(
       initMenuTabs.map((tab) => ({
         ...tab,
-        isActive: tab.name === name,
+        isActive: tab.name === name || (name === '' && tab.name === 'posts'),
       }))
     );
-  };
+  }, [pathname]);
 
   return (
     <div className="w-72 h-full flex flex-col content-center bg-brown text-text-light">
@@ -55,7 +57,7 @@ const SideBar = () => {
       <div>
         <ul>
           {menuTabs.map((tab: MenuTab) => (
-            <li key={tab.name} onClick={(e) => handleChooseTab(e, tab.name)}>
+            <li key={tab.name}>
               <Link
                 className={`list-none cursor-pointer w-48 h-11 font-medium flex items-center mb-2 ml-auto mr-4 pl-20 hover:bg-brown-light 
               ${tab.isActive && 'bg-brown-light'}`}

@@ -9,7 +9,7 @@ const Header = () => {
 
   useEffect(() => {
     setHeaderTitle(pathname.replace('/', '').toUpperCase());
-  }, [pathname]);
+  }, [pathname, setHeaderTitle]);
 
   return (
     <div className="w-full flex flex-col gap-4 pt-8 pb-8">
