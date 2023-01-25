@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  createBrowserRouter,
+  createHashRouter,
   createRoutesFromElements,
   Route,
   RouterProvider,
@@ -9,7 +9,7 @@ import { RecoilRoot } from 'recoil';
 import MainLayout from './components/mainlayout';
 import Post from './pages/Post.page';
 
-const router = createBrowserRouter(
+const router = createHashRouter(
   createRoutesFromElements(
     <Route path="/" element={<MainLayout />}>
       {['', 'posts'].map((path) => (
