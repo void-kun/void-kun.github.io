@@ -54,7 +54,7 @@ const App = () => {
   return (
     <RecoilRoot>
       <Suspense fallback={<Loading />}>
-        <div className="flex w-full h-full">
+        <div className="flex w-full h-full overflow-x-hidden flex-col sm:flex-row">
           <RouterProvider router={router} />
         </div>
       </Suspense>

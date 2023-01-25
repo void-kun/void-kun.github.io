@@ -7,7 +7,7 @@ const MainLayout = () => {
   return (
     <>
       <SideBar />
-      <div className="pl-8 pr-8 flex-1">
+      <div className="sm:ml-72 pl-4 pr-4 md:pl-8 md:pr-8 flex-1">
         <Header />
         <Outlet />
       </div>

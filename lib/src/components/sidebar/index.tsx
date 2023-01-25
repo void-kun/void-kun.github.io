@@ -41,7 +41,7 @@ const SideBar = () => {
   }, [pathname]);
 
   return (
-    <div className="w-72 h-full flex flex-col content-center bg-brown text-text-light">
+    <div className="sm:w-72 w-full sm:h-full h-max flex flex-col content-center bg-brown text-text-light relative sm:fixed">
       <div className="w-full flex flex-col gap-3 mt-12 mb-12">
         <div className="flex gap-4 m-auto">
           <div className="w-28 flex flex-col gap-2">
@@ -59,7 +59,9 @@ const SideBar = () => {
           {menuTabs.map((tab: MenuTab) => (
             <li key={tab.name}>
               <Link
-                className={`list-none cursor-pointer w-48 h-11 font-medium flex items-center mb-2 ml-auto mr-4 pl-20 hover:bg-brown-light 
+                className={`list-none cursor-pointer h-11 font-medium flex items-center
+                            mb-2 sm:ml-auto sm:mr-4 justify-center hover:bg-brown-light 
+                            w-full sm:w-48 sm:pl-20 sm:justify-start
               ${tab.isActive && 'bg-brown-light'}`}
                 to={tab.path}
               >
