@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklib=self.webpackChunklib||[]).push([[885],{885:function(e,i,n){n.r(i);n(634);var u=n(883);i.default=function(){return(0,u.jsx)("div",{children:"Detail"})}}}]);
