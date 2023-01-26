@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunklib=self.webpackChunklib||[]).push([[803],{803:function(e,n,u){u.r(n);u(772);var i=u(140);n.default=function(){return(0,i.jsx)("div",{children:"Photo"})}}}]);
-//# sourceMappingURL=803.8e8e798b.chunk.js.map
