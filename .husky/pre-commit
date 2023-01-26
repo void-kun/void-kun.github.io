@@ -6,4 +6,4 @@ git add -A
 
 # build and deploy
 cd lib
-pnpm run build-deploy
+pnpm run deploy
