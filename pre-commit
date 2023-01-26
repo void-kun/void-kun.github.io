@@ -3,3 +3,8 @@
 cp -f daily_notes/_meta/* _meta
 python composer.py 
 git add -A
+
+# build and deploy
+cd lib
+pnpm build
+pnpm run deploy
