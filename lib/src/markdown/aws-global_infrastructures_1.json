@@ -1,0 +1,21 @@
+{
+  "timestamp": "Th 4, 3 thg 2, 2023",
+  "title": "AWS - Global infrastructures 1",
+  "slug": "aws-global_infrastructures_1",
+  "summary": "Bài viết chém gió về AWS global infrastructure, nào là data center, availability zones, regions, etc ...",
+  "markdown": [
+    "# Blog - Những kiến thức tôi học được qua từng ngày 3",
+    "### ReactMarkdown"
+  ],
+  "banner_url": "",
+  "categories": [
+    {
+      "name": "AWS",
+      "path": "aws"
+    },
+    {
+      "name": "Vọc linh tinh",
+      "path": "voc-link-tink"
+    }
+  ]
+}

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023.01.25.md",
+                "file": "2022.03.26 - Initialize my blog.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023.01.25.md",
+                "file": "2022.03.26 - Initialize my blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +117,7 @@
   },
   "active": "80c32fc5d13aaba0",
   "lastOpenFiles": [
+    "2023.01.25.md",
     "2022.03.27 - Algorithm day 1.md",
     "2022.03.26 - Initialize my blog.md",
     "Untitled.canvas"

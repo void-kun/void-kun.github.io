@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "Th 4, 3 thg 2, 2023",
+    "title": "AWS - Global infrastructures",
+    "slug": "aws-global_infrastructures_1",
+    "summary": "Bài viết chém gió về AWS global infrastructure, nào là data center, availability zones, regions, etc ...",
+    "categories": [
+      {
+        "name": "AWS",
+        "path": "aws"
+      }
+    ]
+  }
+]

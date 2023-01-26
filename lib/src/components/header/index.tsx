@@ -1,14 +1,13 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useLocation } from 'react-router-dom';
-import { useRecoilState } from 'recoil';
-import { headerState } from '../../state/header';
 
 const Header = () => {
   let { pathname } = useLocation();
-  const [headerTitle, setHeaderTitle] = useRecoilState(headerState);
+  const [headerTitle, setHeaderTitle] = useState<string>();
 
   useEffect(() => {
-    setHeaderTitle(pathname.replace('/', '').toUpperCase());
+    const title = pathname.replace('/', '').toUpperCase();
+    setHeaderTitle(title === '' ? 'POSTS' : title);
   }, [pathname, setHeaderTitle]);
 
   return (
