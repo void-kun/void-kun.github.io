@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklib=self.webpackChunklib||[]).push([[761],{5761:function(e,n,u){u.r(n);u(8634);var i=u(1883);n.default=function(){return(0,i.jsx)("div",{children:"Category"})}}}]);
