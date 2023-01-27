@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Programing",
+    "path": "programing",
+    "children": [
+      {
+        "name": "Rust",
+        "path": "rust"
+      }
+    ]
+  },
+  {
+    "name": "Cloud",
+    "path": "cloud",
+    "children": [
+      {
+        "name": "AWS",
+        "path": "aws"
+      }
+    ]
+  }
+]

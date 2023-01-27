@@ -24,7 +24,7 @@ const PostCard = (props: PostCardType) => {
                 #{category.name}
               </Link>
             ))}
-          <p className="text-text-light text-base">{props.summary}</p>
+          <p className="text-[#AAA] font-medium text-base">{props.summary}</p>
         </div>
       </div>
     </div>

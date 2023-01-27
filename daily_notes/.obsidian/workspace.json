@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "26b1b08957b12941",
+        "id": "e0e42ec82c94dbe8",
         "type": "tabs",
         "children": [
           {
-            "id": "80c32fc5d13aaba0",
+            "id": "2366bf41b0dd642a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS - global_infrastructures.md",
+                "file": "aws-global_infrastructures_1.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a994aabb8a91924f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aws-global_infrastructures_1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "509205e97610fdd6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "a.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 585.5
   },
   "right": {
     "id": "3bdbd3221d38dfc7",
@@ -77,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS - global_infrastructures.md",
+                "file": "aws-global_infrastructures_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,13 +118,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "6bcd60256b2a17f4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -115,11 +146,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "ddaf8422087fe89c",
+  "active": "a994aabb8a91924f",
   "lastOpenFiles": [
+    "summary_aws-global_infrastructures_1.md",
+    "aws-global_infrastructures_1.md",
+    "2023-01-17.md",
+    "a.png",
+    "Pasted image 20230127205937.png.md",
+    "Isolated.png.md",
+    "Pasted image 20230127205937.png",
+    "Excalidraw/Drawing 2023-01-27 20.55.37.excalidraw.md",
     "2023.01.25.md",
-    "2022.03.27 - Algorithm day 1.md",
-    "AWS - global_infrastructures.md",
-    "Untitled.canvas"
+    "2022.03.27 - Algorithm day 1.md"
   ]
 }
