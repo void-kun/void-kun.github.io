@@ -13,6 +13,7 @@ Global infrastructure của AWS bao gồm:
 - AWS - Local Zones
 - AWS - Wavelength Zones
 
+---
 
 **Nhiều vl**
 

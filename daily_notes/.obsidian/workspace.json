@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 585.5
+    "width": 200
   },
   "right": {
     "id": "3bdbd3221d38dfc7",
@@ -148,10 +148,10 @@
   },
   "active": "a994aabb8a91924f",
   "lastOpenFiles": [
-    "summary_aws-global_infrastructures_1.md",
-    "aws-global_infrastructures_1.md",
-    "2023-01-17.md",
     "a.png",
+    "aws-global_infrastructures_1.md",
+    "summary_aws-global_infrastructures_1.md",
+    "2023-01-17.md",
     "Pasted image 20230127205937.png.md",
     "Isolated.png.md",
     "Pasted image 20230127205937.png",
