@@ -7,7 +7,7 @@ import {
 } from 'react-router-dom';
 import Loading from './components/loading';
 import MainLayout from './components/mainlayout';
-import { Category, Detail, Photo, Post } from './router';
+import { Detail, Photo, Post } from './router';
 
 const router = createHashRouter(
   createRoutesFromElements(
@@ -16,7 +16,6 @@ const router = createHashRouter(
         <Route key={path} path={path} element={<Post />} />
       ))}
       <Route path="posts/:slug" element={<Detail />} />
-      <Route path="categories" element={<Category />} />
       <Route path="categories/:slug" element={<Post />} />
       <Route path="photos" element={<Photo />} />
     </Route>

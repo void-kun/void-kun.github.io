@@ -15,11 +15,6 @@ const initMenuTabs: Array<MenuTab> = [
     isActive: true,
   },
   {
-    name: 'categories',
-    path: '/categories',
-    isActive: false,
-  },
-  {
     name: 'photos',
     path: '/photos',
     isActive: false,
