@@ -3,8 +3,9 @@ AWS - Giới thiệu về S3 (Amazone Simple Storage Service)
 AWS:aws
 Bài viết giới thiệu khái quát về các AWS S3
 
+Amazon S3 (Amazon Simple Storage Service) 
 
-Amazon S3 (Amazon Simple Storage Service) is an ***object storage service*** that offers scalability, data availability, security and performance. 
+Amazon S3 is an ___object storage service___ that offers scalability, data availability, security and performance. 
 
 --- 
 
