@@ -3,3 +3,7 @@ AWS - S3 Storage Classes và Glacier
 AWS:aws
 Bài viết giới thiệu về Amazon S3 Storage Classes và Glacier
 
+Amazone S3 Storage Classes and Glacier
+
+--- 
+

@@ -12,7 +12,7 @@ def runner():
     for md_file in md_files:
         md_content = ''
         with open('./daily_notes/' + md_file, 'r', encoding="utf-8") as inp_file:
-            md_content = [x for x in inp_file.read().split("\n") if x.strip() != ""]
+            md_content = [x for x in inp_file.read().split("\n")]
 
         with open('./lib/src/markdown/' + md_file.replace(".md", ".json"), 'w', encoding="utf-8") as oup_file:
             timestamp = md_content.pop(0)
