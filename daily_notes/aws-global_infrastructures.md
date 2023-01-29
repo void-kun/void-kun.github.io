@@ -1,6 +1,6 @@
 Chu Nhat, 30 thg 1, 2023
 AWS - global_infrastructures
-AWS:aws, Vọc link tinh:voc-link-tink
+AWS:aws
 Bài viết chém gió về AWS global infrastructure, nào là data center, availability zones, regions, etc ...
 
 
