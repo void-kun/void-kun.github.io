@@ -1,5 +1,5 @@
 Chu Nhat, 30 thg 1, 2023
-AWS - global_infrastructures
+AWS - Global infrastructures
 AWS:aws
 Bài viết chém gió về AWS global infrastructure, nào là data center, availability zones, regions, etc ...
 
