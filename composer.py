@@ -8,8 +8,8 @@ def runner():
     md_dir = os.listdir('./daily_notes')
     md_files = list(filter(lambda x: re.search(r'.+\.md$', x), md_dir))
 
+    posts = []
     for md_file in md_files:
-        posts = []
         md_content = ''
         with open('./daily_notes/' + md_file, 'r', encoding="utf-8") as inp_file:
             md_content = [x for x in inp_file.read().split("\n") if x.strip() != ""]
