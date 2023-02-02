@@ -18,7 +18,7 @@ Các storage class hiện tại có bao gồm:
 - AWS S3 Glacier Deep Archive
 - AWS S3 on Outposts
 
-![[aws-s3-storage_class-glacier-1.png]]
+![](aws-s3-storage_class-glacier-1.png)
 Các class khác nhau có các thuộc tính khác nhau về: cost, avaibility, durability và frequency
 
 __S3 Standard__ 

@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "198a32a905e17f61",
+        "id": "c294f9bc7c01bcbc",
         "type": "tabs",
         "children": [
           {
-            "id": "570ec2fd9b91b8ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "aws-s3-storage_class-glacier.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fea918676065067b",
+            "id": "b91d395267e0e11b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3bdbd3221d38dfc7",
@@ -137,12 +124,13 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "570ec2fd9b91b8ab",
+  "active": "b91d395267e0e11b",
   "lastOpenFiles": [
+    "aws-s3.md",
     "aws-s3-storage_class-glacier-1.png",
     "aws-s3-storage_class-glacier.md",
-    "aws-s3.md",
     "aws-global_infrastructures.md",
+    "Untitled.canvas",
     "a.png",
     "summary_aws-global_infrastructures_1.md",
     "2023-01-17.md",
