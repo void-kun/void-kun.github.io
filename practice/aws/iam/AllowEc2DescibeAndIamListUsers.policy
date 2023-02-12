@@ -1,0 +1,14 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "AllowEc2DescribeAndIamListUsers",
+            "Effect": "Allow",
+            "Action": [
+                 "ec2:Describe*",
+                 "iam:ListUsers"
+            ],
+            "Resource": "*"
+        }
+    ]
+}

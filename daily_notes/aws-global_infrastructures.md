@@ -12,7 +12,7 @@ Global infrastructure của AWS bao gồm:
 - AWS - Regions
 - AWS - Local Zones
 - AWS - Wavelength Zones
-- AWS - Edge Location
+- AWS - Edge Location / Regional Caches (Points of Presence)
 
 ---
 

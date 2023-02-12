@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "b67455a74a0da64d",
+    "id": "138f4d33e00b69e7",
     "type": "split",
     "children": [
       {
-        "id": "c294f9bc7c01bcbc",
+        "id": "983b50ba235148d8",
         "type": "tabs",
         "children": [
           {
-            "id": "7c186757fe170b51",
+            "id": "75041bc186b27b1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "aws-iam-section.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "476e511beed29faf",
+    "id": "130dc3556f3db7cf",
     "type": "split",
     "children": [
       {
-        "id": "15367735b1acb85e",
+        "id": "ba897927a9c565be",
         "type": "tabs",
         "children": [
           {
-            "id": "ddaf8422087fe89c",
+            "id": "d89583310f14358b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "fd3bd707ae39f644",
+            "id": "721c849b39bc3f99",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,28 +52,35 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "fae09bf6abbf5d40",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "3bdbd3221d38dfc7",
+    "id": "37784ea0cb3f42d4",
     "type": "split",
     "children": [
       {
-        "id": "c600e1cacec460fa",
+        "id": "f2274aadd51a3e57",
         "type": "tabs",
         "children": [
           {
-            "id": "c1c9b745a726a665",
+            "id": "94113667e44b35d7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws-iam-section.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,23 +92,36 @@
             }
           },
           {
-            "id": "8c893f798c9528d9",
+            "id": "23568f3c04618d37",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           },
           {
-            "id": "6bcd60256b2a17f4",
+            "id": "66de110ba077df17",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5af749da9172a963",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,24 +133,11 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "7c186757fe170b51",
-  "lastOpenFiles": [
-    "aws-iam-user-groups.png",
-    "aws-iam-section.md",
-    "aws-iam-permission-inheriance.png",
-    "aws-s3.md",
-    "Pasted.md",
-    "aws-s3-storage_class-glacier.md",
-    "aws-s3-storage_class-glacier-1.png",
-    "aws-network-vpc.md",
-    "aws-global_infrastructures.md",
-    "Untitled.canvas"
-  ]
+  "active": "75041bc186b27b1e",
+  "lastOpenFiles": []
 }
