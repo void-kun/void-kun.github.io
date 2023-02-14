@@ -30,9 +30,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "775fff200b604e9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aws-ec2-fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ec7c30bf704a6b9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,17 +157,17 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "b794788b4b7d98c9",
+  "active": "775fff200b604e9b",
   "lastOpenFiles": [
-    "aws-iam-section.md",
     "aws-ec2-fundamentals.md",
-    "aws-iam-user-groups.png",
+    "aws-global_infrastructures.md",
     "aws-iam-permission-inheriance.png",
+    "python-primer.md",
     "aws-s3.md",
+    "aws-iam-section.md",
+    "aws-iam-user-groups.png",
     "Pasted.md",
     "aws-s3-storage_class-glacier.md",
-    "aws-s3-storage_class-glacier-1.png",
-    "aws-network-vpc.md",
-    "aws-global_infrastructures.md"
+    "aws-s3-storage_class-glacier-1.png"
   ]
 }
