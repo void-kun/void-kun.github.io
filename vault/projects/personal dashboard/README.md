@@ -1,0 +1,4 @@
+- Hệ thống gồm 2 phần: local và public
+	- Local: tổng hợp các component khi làm việc (github, gitlab, chatgpt, youtube, ...), viết blogs, ...
+	- Public: phần này là blogs
+- 
