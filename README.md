@@ -1,1 +1,0 @@
-# zrik.github.io

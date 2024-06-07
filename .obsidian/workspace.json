@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "138f4d33e00b69e7",
+    "id": "e8e26e304019b9fd",
     "type": "split",
     "children": [
       {
-        "id": "983b50ba235148d8",
+        "id": "5b5e36fbaf34f8e7",
         "type": "tabs",
         "children": [
           {
-            "id": "75041bc186b27b1e",
+            "id": "3d347629186b82f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "projects/Bookcrawler.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "130dc3556f3db7cf",
+    "id": "911afea6bddff4ab",
     "type": "split",
     "children": [
       {
-        "id": "ba897927a9c565be",
+        "id": "9dbbc98496e8f84e",
         "type": "tabs",
         "children": [
           {
-            "id": "d89583310f14358b",
+            "id": "592df864b33248f9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "721c849b39bc3f99",
+            "id": "fc2d47dcf6e0cd7a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,10 +58,10 @@
             }
           },
           {
-            "id": "fae09bf6abbf5d40",
+            "id": "27f215f3e071e286",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "37784ea0cb3f42d4",
+    "id": "d9c6ce34845b4ca2",
     "type": "split",
     "children": [
       {
-        "id": "f2274aadd51a3e57",
+        "id": "38306eb93813048b",
         "type": "tabs",
         "children": [
           {
-            "id": "94113667e44b35d7",
+            "id": "e0a10ee39617d10f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "projects/Bookcrawler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "23568f3c04618d37",
+            "id": "cb5d2966935994fa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "projects/Bookcrawler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "66de110ba077df17",
+            "id": "bdd1e1544c295b57",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,19 +120,45 @@
             }
           },
           {
-            "id": "5af749da9172a963",
+            "id": "561363ce57a800e0",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "projects/Bookcrawler.md"
+              }
+            }
+          },
+          {
+            "id": "06596a7a58de0810",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "48d79101ae86bf73",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "8cf7349582071416",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,9 +167,42 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "75041bc186b27b1e",
-  "lastOpenFiles": []
+  "active": "3d347629186b82f4",
+  "lastOpenFiles": [
+    "projects/Untitled.md",
+    "projects/Bookcrawler.md",
+    "templates/header.md",
+    "daily/2024-06-07.md",
+    "templates",
+    "projects",
+    "void-kun.github.io/vault/projects/personal dashboard/README.md",
+    "void-kun.github.io/vault/projects/bookcrawler/search engine.md",
+    "void-kun.github.io/vault/projects/bookcrawler/diagram.md",
+    "void-kun.github.io/vault/projects/bookcrawler/crawler.md",
+    "void-kun.github.io/vault/projects/personal dashboard",
+    "void-kun.github.io/vault/projects/bookcrawler",
+    "void-kun.github.io/vault/projects",
+    "void-kun.github.io/vault/daily/2024-06-02.md",
+    "void-kun.github.io/vault/daily",
+    "void-kun.github.io/vault",
+    "void-kun.github.io/scripts/clone_projects.py",
+    "void-kun.github.io/scripts/clone_projects.py~",
+    "void-kun.github.io/scripts",
+    "void-kun.github.io/index.md",
+    "void-kun.github.io/app/src/assets/vue.svg",
+    "void-kun.github.io/app/public/vite.svg",
+    "void-kun.github.io/app/README.md",
+    "void-kun.github.io/README.md",
+    "void-kun.github.io/NOTE.md",
+    "create a link.md",
+    "Excalidraw/Drawing 2024-06-07 07.55.35.excalidraw.md",
+    "Welcome.md"
+  ]
 }
