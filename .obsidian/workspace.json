@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b5e36fbaf34f8e7",
+        "id": "0e096f837d4bbc36",
         "type": "tabs",
         "children": [
           {
-            "id": "3d347629186b82f4",
+            "id": "f52127be7ed5251f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/Bookcrawler.md",
+                "file": "90 - Persional/2024/06_June/21_Friday.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#h/red",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Bookcrawler.md",
+                "file": "90 - Persional/2024/06_June/21_Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/Bookcrawler.md",
+                "file": "90 - Persional/2024/06_June/21_Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/Bookcrawler.md"
+                "file": "90 - Persional/2024/06_June/21_Friday.md"
               }
             }
           },
@@ -138,14 +138,6 @@
             }
           },
           {
-            "id": "48d79101ae86bf73",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
             "id": "8cf7349582071416",
             "type": "leaf",
             "state": {
@@ -154,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -168,33 +160,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3d347629186b82f4",
+  "active": "f52127be7ed5251f",
   "lastOpenFiles": [
-    "projects/Untitled.md",
-    "projects/Bookcrawler.md",
+    "30 - Obsidian/35 - Templates/Daily Note Template.md",
+    "90 - Persional/2024/06_June/21_Friday.md",
+    "90 - Persional/2024/06_June",
+    "90 - Persional/2024",
+    "90 - Persional/91.24 - 2024/2024/06_June/21_Friday.md",
+    "90 - Persional/91.24 - 2024/2024/06_June",
+    "90 - Persional/91.24 - 2024/2024",
+    "90 - Persional/91.24 - 2024/2024-06-21 Friday.md",
+    "Excalidraw/Crawler.md",
+    "Untitled.canvas",
+    "projects/Crawler.md",
+    "30 - Obsidian/35 - Templates",
+    "30 - Obsidian",
+    "90 - Persional/2024-06-21.md",
+    "90 - Persional/91.24 - 2024",
     "templates/header.md",
-    "daily/2024-06-07.md",
+    "Excalidraw",
+    "projects/Untitled.md",
     "templates",
     "projects",
     "void-kun.github.io/vault/projects/personal dashboard/README.md",
     "void-kun.github.io/vault/projects/bookcrawler/search engine.md",
     "void-kun.github.io/vault/projects/bookcrawler/diagram.md",
     "void-kun.github.io/vault/projects/bookcrawler/crawler.md",
-    "void-kun.github.io/vault/projects/personal dashboard",
-    "void-kun.github.io/vault/projects/bookcrawler",
-    "void-kun.github.io/vault/projects",
     "void-kun.github.io/vault/daily/2024-06-02.md",
-    "void-kun.github.io/vault/daily",
-    "void-kun.github.io/vault",
-    "void-kun.github.io/scripts/clone_projects.py",
-    "void-kun.github.io/scripts/clone_projects.py~",
-    "void-kun.github.io/scripts",
     "void-kun.github.io/index.md",
     "void-kun.github.io/app/src/assets/vue.svg",
     "void-kun.github.io/app/public/vite.svg",
