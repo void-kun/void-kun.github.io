@@ -3,5 +3,7 @@
   "showViewHeader": true,
   "nativeMenus": false,
   "theme": "system",
-  "cssTheme": "Minimal"
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "ZedMono Nerd Font",
+  "textFontFamily": "VictorMono Nerd Font"
 }

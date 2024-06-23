@@ -11,7 +11,9 @@
 #### :FabGripfire: Tasks I plan to accomplish soon:
 
 #### :RaLightningSword: Today's Tasks
+- [x] initialize the obsidian ✅ 2024-06-21
 
+----
 #### :RaHealthDecrease: What Happened Today?
 
 #### :RaBook: Reading/Listening/Watching

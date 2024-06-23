@@ -15,7 +15,12 @@
     "h": 3,
     "h/red": 1,
     "⚡": 4,
-    "⚡Dailynotes": 5
+    "⚡Dailynotes": 5,
+    "learning": 6,
+    "category": 7,
+    "thread": 8,
+    "concurrency": 9,
+    "Send": 10
   },
   "_version": 3
 }
