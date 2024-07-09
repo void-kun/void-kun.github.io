@@ -6,5 +6,4 @@
 
 ### Ref:
 - https://github.com/sqlite/sqlite.git
-
-## 
+### Config:

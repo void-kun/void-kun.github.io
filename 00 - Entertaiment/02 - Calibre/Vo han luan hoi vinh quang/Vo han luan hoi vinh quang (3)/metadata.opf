@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f5590c4-ccf6-4aa7-adcc-96104b98b6d5</dc:identifier>
+        <dc:title>Vô hạn luân hồi vinh quang</dc:title>
+        <dc:creator opf:file-as="quang, Vô hạn luân hồi vinh" opf:role="aut">Vô hạn luân hồi vinh quang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.13.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-06-20T14:27:41.074000+00:00</dc:date>
+        <dc:description>Trọng chấn Trung Châu đội vinh quang, chúng ta đạo nghĩa không thể chối từ! ( sống quá sinh hóa nhị liền tính thành công ) Văn hoá phục hưng thức nguyên tổ vô hạn đồng nghiệp, cũng không nói nhiều gì, văn tự thượng thấy thật chương bãi. ( tác giả là cái pha lê tâm, không thể gặp phun, không mừng hữu thượng ) - • - • - • - • - • - • - • - • - • - • - • - • - • - • - • - truyện đã hoàn thành. chưa có link phù hợp để nhúng. mời đọc tiếp trong mục link sưu tầm.</dc:description>
+        <dc:publisher>truyenwikidich.net</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">4429cc2a-ec0f-465b-9162-09f3f88d97c8</dc:identifier>
+        <dc:language>vie</dc:language>
+        <meta name="calibre:timestamp" content="2024-07-09T04:17:59.925401+00:00"/>
+        <meta name="calibre:title_sort" content="Vô hạn luân hồi vinh quang"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

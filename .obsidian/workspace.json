@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 - Learning/22 - Develop/Thread and Concurrency.md",
+                "file": "00 - Entertaiment/01 - Books/Vo han luu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20 - Learning/22 - Develop/Thread and Concurrency.md",
+                "file": "00 - Entertaiment/01 - Books/Vo han luu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20 - Learning/22 - Develop/Thread and Concurrency.md",
+                "file": "00 - Entertaiment/01 - Books/Vo han luu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 - Learning/22 - Develop/Thread and Concurrency.md"
+                "file": "00 - Entertaiment/01 - Books/Vo han luu.md"
               }
             }
           },
@@ -166,29 +166,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f1e4c4faeb982bd",
+  "active": "592df864b33248f9",
   "lastOpenFiles": [
-    "20 - Learning/22 - Develop/processvthread.png",
+    "scripts/#push_cron.sh#",
+    "scripts/push_cron.sh",
+    "scripts",
+    "00 - Entertaiment/02 - Calibre/metadata_db_prefs_backup.json",
+    "00 - Entertaiment/02 - Calibre/metadata.db-journal",
+    "00 - Entertaiment/02 - Calibre/Vo han khung pho chi bo toan ke hoa/Vo han khung bo chi bo toan ke hoach (7)/Vo han khung bo chi bo toan ke hoach - Vo han khung pho chi bo toan ke hoa.mobi",
+    "00 - Entertaiment/02 - Calibre/Vo han khung pho chi bo toan ke hoa/Vo han khung bo chi bo toan ke hoach (7)/metadata.opf",
+    "00 - Entertaiment/02 - Calibre/Vo han khung pho chi bo toan ke hoa/Vo han khung bo chi bo toan ke hoach (7)/Vo han khung bo chi bo toan ke hoach - Vo han khung pho chi bo toan ke hoa.epub",
+    "00 - Entertaiment/02 - Calibre/Vo han khung pho chi bo toan ke hoa/Vo han khung bo chi bo toan ke hoach (7)/cover.jpg",
+    "00 - Entertaiment/02 - Calibre/Vo han khung pho chi bo toan ke hoa/Vo han khung bo chi bo toan ke hoach (7)",
+    "00 - Entertaiment/02 - Calibre/Vo han khung pho chi bo toan ke hoa",
+    "90 - Persional/2024/07_July/09_Tuesday.md",
+    "00 - Entertaiment/01 - Books/Vo han luu.md",
+    "00 - Entertaiment/02 - Calibre/Gia ca chu than khong gian cham ma thi phung hop quai a!/Cai nay Chu Than khong gian nhu the nao la khau lai quai a! (2)/cover.jpg",
+    "00 - Entertaiment/02 - Calibre/Tinh Ha Di Tham/Xich Tam Tuan Thien (5)/metadata.opf",
+    "00 - Entertaiment/02 - Calibre/Unknown/Quang Am Chi Ngoai (6)/cover.jpg",
+    "00 - Entertaiment/02 - Calibre/Tinh Ha Di Tham/Xich Tam Tuan Thien (5)/cover.jpg",
+    "00 - Entertaiment/02 - Calibre/Unknown/Luan Hoi Nhac Vien (4)/cover.jpg",
+    "00 - Entertaiment/02 - Calibre/Vo han luan hoi vinh quang/Vo han luan hoi vinh quang (3)/cover.jpg",
+    "00 - Entertaiment/02 - Calibre/John Schember/Quick Start Guide (1)/cover.jpg",
+    "10 - Projects/Crawler/README.md",
+    "10 - Projects/Crawler/ARCHITECT.md",
+    "10 - Projects/Zqlite/README.md",
     "90 - Persional/2024/06_June/22_Saturday.md",
     "90 - Persional/2024/06_June/23_Sunday.md",
+    "90 - Persional/2024/07_July/06_Saturday.md",
     "20 - Learning/22 - Develop/Thread and Concurrency.md",
+    "20 - Learning/22 - Develop/processvthread.png",
     "30 - Obsidian/35 - Templates/Learning Template.md",
-    "20 - Learning/22 - Develop",
-    "20 - Learning/21 - English",
-    "20 - Learning",
     "30 - Obsidian/35 - Templates/Daily Note Template.md",
     "90 - Persional/2024/06_June/21_Friday.md",
-    "10 - Projects/Zqlite/README.md",
-    "10 - Projects/Crawler/README.md",
-    "10 - Projects/Zedis",
-    "10 - Projects/Zqlite",
-    "10 - Projects/Crawler/ARCHITECT.md",
-    "10 - Projects/Crawler",
-    "90 - Persional/2024/06_June",
-    "90 - Persional/2024",
     "90 - Persional/91.24 - 2024/2024/06_June/21_Friday.md",
-    "90 - Persional/91.24 - 2024/2024/06_June",
-    "90 - Persional/91.24 - 2024/2024",
     "90 - Persional/91.24 - 2024/2024-06-21 Friday.md",
     "Untitled.canvas",
     "90 - Persional/2024-06-21.md",
@@ -203,9 +214,6 @@
     "void-kun.github.io/app/src/assets/vue.svg",
     "void-kun.github.io/app/public/vite.svg",
     "void-kun.github.io/app/README.md",
-    "void-kun.github.io/README.md",
-    "void-kun.github.io/NOTE.md",
-    "create a link.md",
-    "Excalidraw/Drawing 2024-06-07 07.55.35.excalidraw.md"
+    "void-kun.github.io/README.md"
   ]
 }
