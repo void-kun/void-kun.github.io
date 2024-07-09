@@ -1,7 +1,5 @@
 #!/usr/bin/bash
 
-# commit all change to git
-
 check_any_update () {
     local empty_msg='nothing to commit, working tree clean'
     local status="$(git status)"
@@ -19,11 +17,13 @@ git_branch () {
 
 any_update="$(check_any_update)"
 if [[ $any_update == "Has update" ]]; then
-    echo $any_update
+    local branch="$(git_branch)"
+    echo "Commit all change to branch $(branch)"
+
     # add all change and push to master branch
     git add .
     git commit -m "update"
-    git push origin "$(git_branch)"
+    git push origin "$(branch)"
 else
     echo $any_update
 fi
