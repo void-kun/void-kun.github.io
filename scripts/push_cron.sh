@@ -15,8 +15,6 @@ git_branch () {
     git branch --show-current
 }
 
-
-echo "$1"
 if [[ $1 == "" ]]; then
     commit_msg="update"
 else
