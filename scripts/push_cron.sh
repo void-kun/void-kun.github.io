@@ -15,6 +15,8 @@ git_branch () {
     git branch --show-current
 }
 
+echo "$1"
+
 any_update="$(check_any_update)"
 if [[ $any_update == "Has update" ]]; then
     local branch="$(git_branch)"
