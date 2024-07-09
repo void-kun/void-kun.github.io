@@ -21,6 +21,14 @@ else
     commit_msg="$1"
 fi
 
+# cd to project folder
+echo "The script you are running has:"
+script_dir="$(dirname "$0")"
+project_dir=${script_dir%"/scripts"}
+
+echo $project_dir
+cd $project_dir
+
 any_update="$(check_any_update)"
 if [[ $any_update == "Has update" ]]; then
     branch="$(git_branch)"
