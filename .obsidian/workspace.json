@@ -6,14 +6,53 @@
       {
         "id": "e0bf336b7c4f4bd6",
         "type": "tabs",
+        "dimension": 28.834688346883468,
         "children": [
           {
-            "id": "0f1e4c4faeb982bd",
+            "id": "018f2114b702bff8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Entertaiment/01 - Books/Vo han luu.md",
+                "file": "90 - Persional/2024/07_July/19_Friday.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "11b297fadd24200c",
+        "type": "tabs",
+        "dimension": 37.8319783197832,
+        "children": [
+          {
+            "id": "06217b768f59e300",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 - Projects/Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0eefa9d2e8123600",
+        "type": "tabs",
+        "dimension": 33.33333333333333,
+        "children": [
+          {
+            "id": "85ca6faeb46e291e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 - Projects/English.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d9c6ce34845b4ca2",
@@ -85,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Entertaiment/01 - Books/Vo han luu.md",
+                "file": "10 - Projects/English.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Entertaiment/01 - Books/Vo han luu.md",
+                "file": "10 - Projects/English.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Entertaiment/01 - Books/Vo han luu.md"
+                "file": "10 - Projects/English.md"
               }
             }
           },
@@ -162,12 +202,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "592df864b33248f9",
+  "active": "85ca6faeb46e291e",
   "lastOpenFiles": [
+    "10 - Projects/Tasks.md",
+    "10 - Projects/English.md",
+    "90 - Persional/2024/07_July/19_Friday.md",
+    "30 - Obsidian/35 - Templates/Daily Note Template.md",
+    "30 - Obsidian/35 - Templates/Learning Template.md",
+    "90 - Persional/2024/07_July/18_Thursday.md",
+    "00 - Entertaiment/01 - Books/Vo han luu.md",
     "scripts/log",
     "scripts/#push_cron.sh#",
     "scripts/push_cron.sh",
@@ -179,9 +226,7 @@
     "00 - Entertaiment/02 - Calibre/Vo han khung pho chi bo toan ke hoa/Vo han khung bo chi bo toan ke hoach (7)/Vo han khung bo chi bo toan ke hoach - Vo han khung pho chi bo toan ke hoa.epub",
     "00 - Entertaiment/02 - Calibre/Vo han khung pho chi bo toan ke hoa/Vo han khung bo chi bo toan ke hoach (7)/cover.jpg",
     "00 - Entertaiment/02 - Calibre/Vo han khung pho chi bo toan ke hoa/Vo han khung bo chi bo toan ke hoach (7)",
-    "00 - Entertaiment/02 - Calibre/Vo han khung pho chi bo toan ke hoa",
     "90 - Persional/2024/07_July/09_Tuesday.md",
-    "00 - Entertaiment/01 - Books/Vo han luu.md",
     "00 - Entertaiment/02 - Calibre/Gia ca chu than khong gian cham ma thi phung hop quai a!/Cai nay Chu Than khong gian nhu the nao la khau lai quai a! (2)/cover.jpg",
     "00 - Entertaiment/02 - Calibre/Unknown/Quang Am Chi Ngoai (6)/cover.jpg",
     "00 - Entertaiment/02 - Calibre/Tinh Ha Di Tham/Xich Tam Tuan Thien (5)/cover.jpg",
@@ -196,8 +241,6 @@
     "90 - Persional/2024/07_July/06_Saturday.md",
     "20 - Learning/22 - Develop/Thread and Concurrency.md",
     "20 - Learning/22 - Develop/processvthread.png",
-    "30 - Obsidian/35 - Templates/Learning Template.md",
-    "30 - Obsidian/35 - Templates/Daily Note Template.md",
     "90 - Persional/2024/06_June/21_Friday.md",
     "90 - Persional/91.24 - 2024/2024/06_June/21_Friday.md",
     "90 - Persional/91.24 - 2024/2024-06-21 Friday.md",
@@ -210,10 +253,7 @@
     "void-kun.github.io/vault/projects/bookcrawler/diagram.md",
     "void-kun.github.io/vault/projects/bookcrawler/crawler.md",
     "void-kun.github.io/vault/daily/2024-06-02.md",
-    "void-kun.github.io/index.md",
     "void-kun.github.io/app/src/assets/vue.svg",
-    "void-kun.github.io/app/public/vite.svg",
-    "void-kun.github.io/app/README.md",
-    "void-kun.github.io/README.md"
+    "void-kun.github.io/app/public/vite.svg"
   ]
 }
