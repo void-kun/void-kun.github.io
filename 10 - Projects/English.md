@@ -1,2 +1,0 @@
-- [ ] Learn english (Take a exam and get cert IELTS)
-	- Target 7.0
